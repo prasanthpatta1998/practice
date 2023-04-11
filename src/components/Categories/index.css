@@ -1,0 +1,12 @@
+.menu-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu-heading {
+  font-family: 'Roboto';
+  font-size: 15px;
+  width: 150px;
+  text-align: center;
+  color: rebeccapurple;
+}
